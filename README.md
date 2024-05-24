@@ -2,8 +2,8 @@
 
 # Member 
 
-- TuongClearlove7
-- NgockhanhTech
+- TuongClearlove7 (https://github.com/tuongclearlove7).
+- NgockhanhTech (https://github.com/khanhnguyen2808).
 
 
 # FLATFORM
