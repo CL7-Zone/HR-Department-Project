@@ -22,6 +22,17 @@
 - Grant permissions to users.
 ```
 
+# HOW TO RUN PROJECT?
+
+```javascript
+- Download project 
+- Open visual studio 
+- Open solution project
+- Click run project
+
+DONE
+```
+
 # DESCRIPTION
 
 ```js
